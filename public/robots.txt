@@ -1,0 +1,12 @@
+# robots.txt for Premium Parquet Dubai
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://premiumparquet.ae/sitemap.xml
+
+# Disallow any potential admin or private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
