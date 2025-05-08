@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://premiumparquet.ae/sitemap.xml
+Sitemap: https://fixworks-parquet.vercel.app/sitemap.xml
 
 # Disallow any potential admin or private areas
 Disallow: /admin/
